@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="group_view_padding_micro">2dp</dimen>
+    <dimen name="group_view_padding_min">8dp</dimen>
+    <dimen name="group_view_padding_medium">16dp</dimen>
+    <dimen name="group_view_padding_large">24dp</dimen>
+    <dimen name="group_view_padding_huge">32dp</dimen>
+    <dimen name="group_view_padding_huge_plus">42dp</dimen>
+    <dimen name="group_view_margin_min">8dp</dimen>
+    <dimen name="group_view_margin_medium">16dp</dimen>
+
+    <dimen name="view_size_min">24dp</dimen>
+    <dimen name="view_size_medium">32dp</dimen>
+    <dimen name="view_size_large">32dp</dimen>
+    <dimen name="view_size_huge">56dp</dimen>
+    <dimen name="view_size_huge_plus">64dp</dimen>
+
+    <dimen name="view_margin_min">8dp</dimen>
+    <dimen name="view_margin_small">12dp</dimen>
+    <dimen name="view_margin_medium">16dp</dimen>
+    <dimen name="view_margin_large">24dp</dimen>
+    <dimen name="view_margin_large_plus">26dp</dimen>
+    <dimen name="view_margin_huge">32dp</dimen>
+    <dimen name="view_margin_huge_plus">48dp</dimen>
+    <dimen name="view_padding_min">8dp</dimen>
+    <dimen name="view_padding_small">12dp</dimen>
+    <dimen name="view_padding_medium">16dp</dimen>
+    <dimen name="view_padding_large">24dp</dimen>
+    <dimen name="view_padding_large_plus">26dp</dimen>
+    <dimen name="view_padding_huge">32dp</dimen>
+    <dimen name="view_padding_huge_plus">48dp</dimen>
+
+    <dimen name="text_size_tiny">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_huge">24sp</dimen>
+    <dimen name="text_size_huge_plus">36sp</dimen>
+    <dimen name="text_size_42">42sp</dimen>
+    <dimen name="text_size_48">48sp</dimen>
+
+    <dimen name="text_margin_micro">4dp</dimen>
+    <dimen name="text_margin_min">8dp</dimen>
+    <dimen name="text_margin_medium">16dp</dimen>
+    <dimen name="text_margin_large">24dp</dimen>
+    <dimen name="text_margin_huge">32dp</dimen>
+    <dimen name="text_margin_huge_plus">32dp</dimen>
+    <dimen name="text_padding_micro">4dp</dimen>
+    <dimen name="text_padding_min">8dp</dimen>
+    <dimen name="text_padding_medium">16dp</dimen>
+    <dimen name="text_padding_big">24dp</dimen>
+    <dimen name="text_padding_large">32dp</dimen>
+    <dimen name="text_padding_huge">48dp</dimen>
+
+    <dimen name="divider_height">0.3dp</dimen>
+    <dimen name="tb_elevation">8dp</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="drawer_header_logo_height">80dp</dimen>
+
+    <dimen name="circle_size">18dp</dimen>
+
+</resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TestApplihelp</string>
+    <string name="no_internet_title">Интернет</string>
+    <string name="no_internet_msg">Интернет соединение отсутствует.\nВосстановите интернет соединение для дальнейшей работы.</string>
+    <string name="tb_title">Test Applihelp</string>
+    <string name="board_name">Board name</string>
+    <string name="empty_board_name_msg">Board name can\'t be empty.</string>
+    <string name="title_board_editing">Board editing</string>
 </resources>

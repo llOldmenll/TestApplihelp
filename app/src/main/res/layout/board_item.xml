@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/group_view_margin_min"
+    android:layout_marginEnd="@dimen/group_view_margin_medium"
+    android:layout_marginStart="@dimen/group_view_margin_medium"
+    android:layout_marginTop="@dimen/group_view_margin_min"
+    android:background="@color/color_background_dark"
+    android:padding="@dimen/group_view_padding_large">
+
+    <ImageView
+        android:id="@+id/circle_board_item"
+        android:layout_width="@dimen/circle_size"
+        android:layout_height="@dimen/circle_size"
+        android:src="@drawable/oval"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_chainStyle="spread_inside"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/name_board_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/text_margin_large"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/text_size_big"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/circle_board_item"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed"
+        tools:text="Board №1" />
+
+</android.support.constraint.ConstraintLayout>
